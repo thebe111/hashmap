@@ -1,3 +1,5 @@
+// FONT: <https://github.com/jamesroutley/write-a-hash-table> - hashmap impl tutorial
+
 #[derive(Debug, PartialEq)]
 struct Item<'a> {
     key: &'a str,
